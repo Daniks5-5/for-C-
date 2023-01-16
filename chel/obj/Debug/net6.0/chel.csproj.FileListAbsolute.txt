@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\C#\chel\bin\Debug\net6.0\chel.exe
+C:\Users\danil\Desktop\C#\chel\bin\Debug\net6.0\chel.deps.json
+C:\Users\danil\Desktop\C#\chel\bin\Debug\net6.0\chel.runtimeconfig.json
+C:\Users\danil\Desktop\C#\chel\bin\Debug\net6.0\chel.dll
+C:\Users\danil\Desktop\C#\chel\bin\Debug\net6.0\chel.pdb
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\chel.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\chel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\chel.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\chel.AssemblyInfo.cs
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\chel.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\chel.dll
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\refint\chel.dll
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\chel.pdb
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\chel.genruntimeconfig.cache
+C:\Users\danil\Desktop\C#\chel\obj\Debug\net6.0\ref\chel.dll
