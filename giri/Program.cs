@@ -9,3 +9,5 @@ if(B>max) max=B;
 if(C>max) max=C;
 if(G>max) max=G;
 if(H>max) max=H;
+Console.WriteLine(max);
+Console.Write("большeе число");
