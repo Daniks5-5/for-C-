@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\C#\giri\bin\Debug\net6.0\giri.exe
+C:\Users\danil\Desktop\C#\giri\bin\Debug\net6.0\giri.deps.json
+C:\Users\danil\Desktop\C#\giri\bin\Debug\net6.0\giri.runtimeconfig.json
+C:\Users\danil\Desktop\C#\giri\bin\Debug\net6.0\giri.dll
+C:\Users\danil\Desktop\C#\giri\bin\Debug\net6.0\giri.pdb
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\giri.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\giri.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\giri.AssemblyInfo.cs
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\giri.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\giri.dll
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\refint\giri.dll
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\giri.pdb
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\giri.genruntimeconfig.cache
+C:\Users\danil\Desktop\C#\giri\obj\Debug\net6.0\ref\giri.dll

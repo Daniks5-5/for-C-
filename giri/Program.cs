@@ -1,0 +1,11 @@
+﻿double A = 5;
+double B = 77;
+double C = 45;
+double G = 43;
+double H = 89;
+double max = A;
+if(A>max) max=A;
+if(B>max) max=B;
+if(C>max) max=C;
+if(G>max) max=G;
+if(H>max) max=H;
