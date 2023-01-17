@@ -1,0 +1,15 @@
+C:\Users\danil\Desktop\C#\orginal\bin\Debug\net6.0\orginal.exe
+C:\Users\danil\Desktop\C#\orginal\bin\Debug\net6.0\orginal.deps.json
+C:\Users\danil\Desktop\C#\orginal\bin\Debug\net6.0\orginal.runtimeconfig.json
+C:\Users\danil\Desktop\C#\orginal\bin\Debug\net6.0\orginal.dll
+C:\Users\danil\Desktop\C#\orginal\bin\Debug\net6.0\orginal.pdb
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\orginal.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\orginal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\orginal.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\orginal.AssemblyInfo.cs
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\orginal.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\orginal.dll
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\refint\orginal.dll
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\orginal.pdb
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\orginal.genruntimeconfig.cache
+C:\Users\danil\Desktop\C#\orginal\obj\Debug\net6.0\ref\orginal.dll
