@@ -1,13 +1,19 @@
-﻿int xa = 1, ya = 2;
-int xb = 2, yb = 3;
-int xc = 3, yc = 4;
-Console.SetCursorPosition(xa,ya);
+﻿Console.Clear();
+int xa = 1, ya = 2,
+    xb = 2, yb = 10,
+    xc = 2, yc = 40;
+
+Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
-Console.SetCursorPosition(xb,yb);
+
+Console.SetCursorPosition(xb, yb);
 Console.WriteLine("+");
-Console.SetCursorPosition(xc,yc);
+
+Console.SetCursorPosition(xc, yc);
 Console.WriteLine("+");
-int x = xa, y = ya;
+
+
+int x = xa, y = yb;
 int count = 0;
 while(count<10)
 {
