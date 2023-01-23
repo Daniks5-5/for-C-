@@ -1,0 +1,15 @@
+C:\c#\функции\mass 2.0\bin\Debug\net6.0\mass 2.0.exe
+C:\c#\функции\mass 2.0\bin\Debug\net6.0\mass 2.0.deps.json
+C:\c#\функции\mass 2.0\bin\Debug\net6.0\mass 2.0.runtimeconfig.json
+C:\c#\функции\mass 2.0\bin\Debug\net6.0\mass 2.0.dll
+C:\c#\функции\mass 2.0\bin\Debug\net6.0\mass 2.0.pdb
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\mass 2.0.csproj.AssemblyReference.cache
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\mass 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\mass 2.0.AssemblyInfoInputs.cache
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\mass 2.0.AssemblyInfo.cs
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\mass 2.0.csproj.CoreCompileInputs.cache
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\mass 2.0.dll
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\refint\mass 2.0.dll
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\mass 2.0.pdb
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\mass 2.0.genruntimeconfig.cache
+C:\c#\функции\mass 2.0\obj\Debug\net6.0\ref\mass 2.0.dll
