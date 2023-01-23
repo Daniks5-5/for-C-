@@ -1,0 +1,15 @@
+C:\c#\функции\intro\bin\Debug\net6.0\intro.exe
+C:\c#\функции\intro\bin\Debug\net6.0\intro.deps.json
+C:\c#\функции\intro\bin\Debug\net6.0\intro.runtimeconfig.json
+C:\c#\функции\intro\bin\Debug\net6.0\intro.dll
+C:\c#\функции\intro\bin\Debug\net6.0\intro.pdb
+C:\c#\функции\intro\obj\Debug\net6.0\intro.csproj.AssemblyReference.cache
+C:\c#\функции\intro\obj\Debug\net6.0\intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\функции\intro\obj\Debug\net6.0\intro.AssemblyInfoInputs.cache
+C:\c#\функции\intro\obj\Debug\net6.0\intro.AssemblyInfo.cs
+C:\c#\функции\intro\obj\Debug\net6.0\intro.csproj.CoreCompileInputs.cache
+C:\c#\функции\intro\obj\Debug\net6.0\intro.dll
+C:\c#\функции\intro\obj\Debug\net6.0\refint\intro.dll
+C:\c#\функции\intro\obj\Debug\net6.0\intro.pdb
+C:\c#\функции\intro\obj\Debug\net6.0\intro.genruntimeconfig.cache
+C:\c#\функции\intro\obj\Debug\net6.0\ref\intro.dll
